@@ -1,0 +1,6 @@
+
+import math
+
+PI = math.pi
+GRAVITATIONAL_CONSTANT = 6.67430e-11
+SPEED_OF_LIGHT = 299792458
